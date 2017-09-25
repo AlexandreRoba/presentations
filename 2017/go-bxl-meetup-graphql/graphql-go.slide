@@ -17,4 +17,10 @@ https://alexandrerroba.com/
 - Dependencies management
 - Graphql project with dependency management
 
-
+* Setup of the environment
+- Install GO
+  - Downlad it from https://golang.org/dl/ 
+- Install it with homebrew
+```bash
+brew install go
+```
