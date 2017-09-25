@@ -1,9 +1,20 @@
-GraphQL in Go
-GoBsl  Meetup
-22 Sep 2017
+Intro to GO dependencies and apply it to GraphQL in Go
+GoBxl  Meetup
+28 Sep 2017
 
 Alexandre Roba
 https://alexandrerroba.com/
 @alexandreroba
 
 * About me
+- Using Go for a year(and love it)
+- CTO at Lab Box (D'Ieteren Mobility)
+- I try to be fun to work with
+- This is my first Meetup
+
+* Agenda
+- Setup your environment (On Mac...)
+- Dependencies management
+- Graphql project with dependency management
+
+
