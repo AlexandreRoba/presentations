@@ -22,7 +22,11 @@ https://alexandrerroba.com/
 - Install it with homebrew
   brew install go
 
-*Setup: Env Variables
-- $GOROOT
+* Setup GO environment Variable
+** $GOROOT
 Define the path to your GO Installation
 The install should have created a symlink in /usr/local/bin
+
+* Setup Workspace environment Variable
+** $GOPATH
+Define the path to your workspace. It can be a comma separated 
