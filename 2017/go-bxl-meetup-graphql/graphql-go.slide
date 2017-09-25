@@ -21,3 +21,8 @@ https://alexandrerroba.com/
 - Downlad it from https://golang.org/dl/ 
 - Install it with homebrew
   brew install go
+
+*Setup: Env Variables
+- $GOROOT
+Define the path to your GO Installation
+The install should have created a symlink in /usr/local/bin
