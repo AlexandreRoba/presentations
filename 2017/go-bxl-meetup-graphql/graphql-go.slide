@@ -19,8 +19,6 @@ https://alexandrerroba.com/
 
 * Setup of the environment
 - Install GO
-  - Downlad it from https://golang.org/dl/ 
+Downlad it from https://golang.org/dl/ 
 - Install it with homebrew
-```bash
-brew install go
-```
+  brew install go
