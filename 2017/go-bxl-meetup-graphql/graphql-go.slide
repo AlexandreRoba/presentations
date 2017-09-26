@@ -24,11 +24,24 @@ https://alexandrerroba.com/
 
 * Setup GO environment Variable
 - $GOROOT
-Define the path to your GO Installation
+Define the path to your GO installation folder
 The install should have created a symlink in /usr/local/bin
 
 * Setup Workspace environment Variable
 - $GOPATH
-workspace:= *src/<host>/<owner>/repo* *bin/* *pkg/*
-Define the path to your workspace. It can be a colon separated list of values
+Workspace folders 
+<workspace>/*src/<host>/<owner>/repo* 
+<workspace>/*bin/* 
+<workspace>/*pkg/*
+Define the path to your workspace(s). 
+It can be a colon separated list of values.
+- *Libraries*: /Users/aroba/golib
+This is where you put tooling 
+- *Projects*: /Users/aroba/gocode
+This is where you store *your code*
+It contains your projecty path to the source controller(s).
+_Open source project should be cloned on the libraries folder_
+
+GO get will install packages in the first folder
+GO compiler will resolve in both folder
 
