@@ -23,10 +23,12 @@ https://alexandrerroba.com/
   brew install go
 
 * Setup GO environment Variable
-** $GOROOT
+- $GOROOT
 Define the path to your GO Installation
 The install should have created a symlink in /usr/local/bin
 
 * Setup Workspace environment Variable
-** $GOPATH
-Define the path to your workspace. It can be a comma separated 
+- $GOPATH
+workspace:= *src/<host>/<owner>/repo* *bin/* *pkg/*
+Define the path to your workspace. It can be a colon separated list of values
+
