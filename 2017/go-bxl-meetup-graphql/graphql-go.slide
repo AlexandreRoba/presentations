@@ -31,9 +31,9 @@ The install should have created a symlink in /usr/local/bin
 - $GOPATH
 Define the path to a Workspace folder
 A workspace include of the following folders
-  */src/<host>/<owner>/repo* 
-  */bin/* 
-  */pkg/* 
+  $./src/<host>/<owner>/repo* 
+  $./bin/ 
+  $./pkg/ 
 
 * Setup Workspace environment Variable 
 - $GOPATH
